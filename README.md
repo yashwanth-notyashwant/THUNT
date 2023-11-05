@@ -1,4 +1,4 @@
-# qrscanner
+# THUNT
 
 A new Flutter project.
 
